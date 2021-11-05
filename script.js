@@ -1,7 +1,6 @@
 const dataSource = {
   chart: {
     caption: "Competency Current & Target",
-    subcaption: "For 2022",
     theme: "fusion",
     numbersuffix: "",
     plotfillalpha: "40"
